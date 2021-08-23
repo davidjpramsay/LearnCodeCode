@@ -43,8 +43,20 @@
 	```bash
 	git clone git@github.com:davidjpramsay/learncodecode.git
 	```
+## add & commit
 
+You can propose changes (add it to the **Index**) using  
+`git add <filename>`  
+`git add *`  
+This is the first step in the basic git workflow. To actually commit these changes use  
+`git commit -m "Commit message"`  
+Now the file is committed to the **HEAD**, but not in your remote repository yet.
+
+## pushing changes
+
+Your changes are now in the **HEAD** of your local working copy. To send those changes to your remote repository, execute  
+`git push origin master`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MT
-kxNjY0NzgsLTIyNTYzNzI2Nl19
+eyJoaXN0b3J5IjpbLTE3NjQ5NTk1NjAsMTg0MTcyMjA3OCwxMD
+U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
