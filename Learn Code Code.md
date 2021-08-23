@@ -22,7 +22,7 @@
 	```bash
 	git config --global user.email "david.jp.ramsay@me.com"
 	```
-### Connect to GitHub with SSH
+### Connect to GitHub
 
 1.	Generate a new SSH key
 	```bash
@@ -43,7 +43,8 @@
 	```bash
 	git clone git@github.com:davidjpramsay/learncodecode.git
 	```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MDA4MjMyLDEwNTQ4MjIwMjIsLTkxOT
-E2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MT
+kxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
