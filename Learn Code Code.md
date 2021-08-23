@@ -66,7 +66,9 @@
 	```bash
 	git push origin master
 	```
+
+## Miniconda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1OTc5MzU2LDE4NDE3MjIwNzgsMTA1ND
-gyMjAyMiwtOTE5MTY2NDc4LC0yMjU2MzcyNjZdfQ==
+eyJoaXN0b3J5IjpbLTkwMjc0Njk5MiwxODQxNzIyMDc4LDEwNT
+Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
