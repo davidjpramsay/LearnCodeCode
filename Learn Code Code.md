@@ -90,7 +90,7 @@
 	conda create --name my_enviroment_name
 	```
 
-2.	Activate Environment
+2.	Activate environment
 	```bash
 	source activate my_enviroment_name
 	```
@@ -99,7 +99,12 @@
 	conda info --envs
 	```
 4.	Change back to base.
+	```bash
+	conda activate
+	```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjQ5NDU5MywxODQxNzIyMDc4LDEwNT
-Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbMjQ4MzcyNzE3LDE4NDE3MjIwNzgsMTA1ND
+gyMjAyMiwtOTE5MTY2NDc4LC0yMjU2MzcyNjZdfQ==
 -->
