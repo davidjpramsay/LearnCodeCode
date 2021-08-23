@@ -54,12 +54,12 @@
 <ol>
 <li>
 <p>Generate a new SSH key</p>
-<pre class=" language-bash"><code class="prism  language-bash">$ ssh-keygen -t ed25519 -C <span class="token string">"david.jp.ramsay@me.com"</span>
+<pre class=" language-bash"><code class="prism  language-bash">ssh-keygen -t ed25519 -C <span class="token string">"david.jp.ramsay@me.com"</span>
 </code></pre>
 </li>
 <li>
 <p>Start the ssh-agent in the background.</p>
-<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">eval</span> <span class="token string">"<span class="token variable"><span class="token variable">$(</span>ssh-agent -s<span class="token variable">)</span></span>"</span>
+<pre><code>eval "$(ssh-agent -s)"
 </code></pre>
 </li>
 <li>
