@@ -41,12 +41,12 @@
 </li>
 <li>
 <p>Setting your Git username for <em>every</em> repository on your computer</p>
-<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> config --global user.name <span class="token string">"davidjpramsay"</span>
+<pre class=" language-sh"><code class="prism  language-sh">git config --global user.name "davidjpramsay"
 </code></pre>
 </li>
 <li>
 <p>Setting your commit email address in Git</p>
-<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> config --global user.email <span class="token string">"david.jp.ramsay@me.com"</span>
+<pre class=" language-shell"><code class="prism  language-shell">git config --global user.email "david.jp.ramsay@me.com"
 </code></pre>
 </li>
 </ol>
@@ -54,7 +54,7 @@
 <ol>
 <li>
 <p>Generate a new SSH key</p>
-<pre class=" language-bash"><code class="prism  language-bash">ssh-keygen -t ed25519 -C <span class="token string">"david.jp.ramsay@me.com"</span>
+<pre class=" language-zsh"><code class="prism  language-zsh">ssh-keygen -t ed25519 -C "david.jp.ramsay@me.com"
 </code></pre>
 </li>
 <li>
@@ -64,7 +64,7 @@
 </li>
 <li>
 <p>Add your SSH private key to the ssh-agent</p>
-<pre class=" language-zsh"><code class="prism  language-zsh">ssh-add ~/.ssh/id_ed25519
+<pre class=" language-sh"><code class="prism  language-sh">ssh-add ~/.ssh/id_ed25519
 </code></pre>
 </li>
 <li>
