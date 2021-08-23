@@ -102,8 +102,10 @@
 	conda activate
 	```
 5.	Install packages.
+	```bash
+	conda install python numpy panda
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzU1MTIzOCwxODQxNzIyMDc4LDEwNT
+eyJoaXN0b3J5IjpbMjAxODkxNTQ1NywxODQxNzIyMDc4LDEwNT
 Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
