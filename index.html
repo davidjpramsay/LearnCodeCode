@@ -59,12 +59,12 @@
 </li>
 <li>
 <p>Start the ssh-agent in the background.</p>
-<pre><code>eval "$(ssh-agent -s)"
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">eval</span> <span class="token string">"<span class="token variable"><span class="token variable">$(</span>ssh-agent -s<span class="token variable">)</span></span>"</span>
 </code></pre>
 </li>
 <li>
 <p>Add your SSH private key to the ssh-agent</p>
-<pre class=" language-zsh"><code class="prism  language-zsh">ssh-add ~/.ssh/id_ed25519
+<pre class=" language-bash"><code class="prism  language-bash">ssh-add ~/.ssh/id_ed25519
 </code></pre>
 </li>
 <li>
