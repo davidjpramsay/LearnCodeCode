@@ -77,11 +77,17 @@
 	```bash
 	bash Miniconda3-latest-Linux-x86_64.sh
 	```
+	A terminal restart may be re
 3.	Update
 	```bash
 	conda update conda
 	```
+
+### Managing Environments
+
+1.	Create a new
+2.	conda create --name snowflakes biopython
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA4NDIzMTUsMTg0MTcyMjA3OCwxMD
-U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
+eyJoaXN0b3J5IjpbMTAyNDk5ODMyOCwxODQxNzIyMDc4LDEwNT
+Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
