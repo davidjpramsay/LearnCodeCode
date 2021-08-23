@@ -37,8 +37,9 @@
 	```bash
 	ssh-add ~/.ssh/id_ed25519
 	```
-4. Add SSH to GitHub
+4. Add public SSH to GitHub in the account settings menu.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbMTA1NDgyMjAyMiwtOTE5MTY2NDc4LC0yMj
+U2MzcyNjZdfQ==
 -->
