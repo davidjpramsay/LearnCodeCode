@@ -92,13 +92,13 @@
 
 2.	Activate Environment
 	```bash
-	conda activate my_enviroment_name
+	source activate my_enviroment_name
 	```
 3.	List all Environments
 	```bash
 	conda info --envs
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIyMzE0MTQsMTg0MTcyMjA3OCwxMD
+eyJoaXN0b3J5IjpbLTE1Nzc3NTczMDgsMTg0MTcyMjA3OCwxMD
 U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
