@@ -116,9 +116,12 @@
 
 ## Jupyter
 
-
+1.	Launch JupyterLab
+	```bash
+	jupyter-lab
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzA2MTE1MywtMjAxNjIxNjIyOCwxOD
-QxNzIyMDc4LDEwNTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3
-MjY2XX0=
+eyJoaXN0b3J5IjpbLTE1NTE1NjU5NTYsLTIwMTYyMTYyMjgsMT
+g0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYz
+NzI2Nl19
 -->
