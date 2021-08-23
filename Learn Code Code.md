@@ -31,7 +31,7 @@
 
 2.	Start the ssh-agent in the background.
 	```bash
-	$ eval "$(ssh-agent -s)"
+	eval "$(ssh-agent -s)"
 	```
 3.	Add your SSH private key to the ssh-agent
 	```bash
@@ -40,5 +40,5 @@
 4. Add SSH to GitHub
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDkzNDgwMiwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
