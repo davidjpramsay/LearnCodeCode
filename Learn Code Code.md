@@ -36,17 +36,17 @@
 <ol>
 <li>
 <p>Install</p>
-<pre class=" language-bash"><code class="prism  language-bash">apt <span class="token function">install</span> <span class="token function">git</span>
+<pre class=" language-shell"><code class="prism  language-shell">apt install git
 </code></pre>
 </li>
 <li>
 <p>Setting your Git username for <em>every</em> repository on your computer</p>
-<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> config --global user.name <span class="token string">"davidjpramsay"</span>
+<pre class=" language-shell"><code class="prism  language-shell">git config --global user.name "davidjpramsay"
 </code></pre>
 </li>
 <li>
 <p>Setting your commit email address in Git</p>
-<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> config --global user.email <span class="token string">"david.jp.ramsay@me.com"</span>
+<pre class=" language-shell"><code class="prism  language-shell">git config --global user.email "david.jp.ramsay@me.com"
 </code></pre>
 </li>
 </ol>
