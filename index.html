@@ -17,6 +17,8 @@
 <ul>
 <li><a href="#system">System</a></li>
 <li><a href="#git--github">Git & GitHub</a></li>
+<li><a href="#miniconda">Miniconda</a></li>
+<li><a href="#jupyter">Jupyter</a></li>
 </ul>
 </li>
 </ul>
@@ -95,6 +97,53 @@ You can propose changes (add it to the <strong>Index</strong>) using</p>
 <p>Pushing Changes<br>
 Your changes are now in the <strong>HEAD</strong> of your local working copy. To send those changes to your remote repository, execute</p>
 <pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> push origin master
+</code></pre>
+</li>
+</ol>
+<h2 id="miniconda">Miniconda</h2>
+<h3 id="install-miniconda">Install Miniconda</h3>
+<ol>
+<li>
+<p>Download <a href="https://docs.conda.io/en/latest/miniconda.html#linux-installers">Miniconda</a></p>
+</li>
+<li>
+<p>Bash the installer</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">bash</span> Miniconda3-latest-Linux-x86_64.sh
+</code></pre>
+</li>
+<li>
+<p>Update</p>
+<pre class=" language-bash"><code class="prism  language-bash">conda update conda
+</code></pre>
+</li>
+</ol>
+<h3 id="managing-environments">Managing Environments</h3>
+<ol>
+<li>Create a new environment.<pre class=" language-bash"><code class="prism  language-bash">conda create --name my_enviroment_name
+</code></pre>
+</li>
+<li>Activate environment<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">source</span> activate my_enviroment_name
+</code></pre>
+</li>
+<li>List all environments<pre class=" language-bash"><code class="prism  language-bash">conda info --envs
+</code></pre>
+</li>
+<li>Change back to base.<pre class=" language-bash"><code class="prism  language-bash">conda activate
+</code></pre>
+</li>
+<li>Install packages.<pre class=" language-bash"><code class="prism  language-bash">conda <span class="token function">install</span> python numpy pandas jupyterlab
+</code></pre>
+</li>
+<li>List packages in environment.<pre class=" language-bash"><code class="prism  language-bash">conda list
+</code></pre>
+</li>
+<li>Delete environment.<pre class=" language-bash"><code class="prism  language-bash">conda remove --name my_environment_name --all
+</code></pre>
+</li>
+</ol>
+<h2 id="jupyter">Jupyter</h2>
+<ol>
+<li>Launch JupyterLab<pre class=" language-bash"><code class="prism  language-bash">jupyter-lab
 </code></pre>
 </li>
 </ol>
