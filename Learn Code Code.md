@@ -94,11 +94,12 @@
 	```bash
 	source activate my_enviroment_name
 	```
-3.	List all Environments
+3.	List all environments
 	```bash
 	conda info --envs
 	```
+4.	Change back to base.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc3NTczMDgsMTg0MTcyMjA3OCwxMD
-U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
+eyJoaXN0b3J5IjpbLTc2MjQ5NDU5MywxODQxNzIyMDc4LDEwNT
+Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
