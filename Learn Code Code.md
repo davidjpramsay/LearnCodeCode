@@ -89,7 +89,12 @@
 	```bash
 	conda create --name my_enviroment_name
 	```
+
+2. Activate Environment
+	```bash
+	conda activate my_enviroment_name
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE0MDMzNDEsMTg0MTcyMjA3OCwxMD
-U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
+eyJoaXN0b3J5IjpbLTQ1OTQ0Njg4NSwxODQxNzIyMDc4LDEwNT
+Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
