@@ -46,11 +46,12 @@
 
 ### Using Git
 
-1.	add & commit
+1.	Add & Commit
 	You can propose changes (add it to the **Index**) using  
 	```bash
 	git add <filename>
 	```
+	or
 	```bash
 	git add *
 	```  
@@ -58,13 +59,14 @@
 	```bash
 	git commit -m "Commit message"
 	```
-Now the file is committed to the **HEAD**, but not in your remote repository yet.
+	Now the file is committed to the **HEAD**, but not in your remote repository yet.
 
-### pushing changes
-
-Your changes are now in the **HEAD** of your local working copy. To send those changes to your remote repository, execute  
-`git push origin master`
+2.	Pushing Changes
+	Your changes are now in the **HEAD** of your local working copy. To send those changes to your remote repository, execute
+	```bash
+	git push origin master
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDE4MzU5MiwxODQxNzIyMDc4LDEwNT
-Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbNjk1OTc5MzU2LDE4NDE3MjIwNzgsMTA1ND
+gyMjAyMiwtOTE5MTY2NDc4LC0yMjU2MzcyNjZdfQ==
 -->
