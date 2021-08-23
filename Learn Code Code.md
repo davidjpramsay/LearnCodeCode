@@ -44,17 +44,20 @@
 	git clone git@github.com:davidjpramsay/learncodecode.git
 	```
 
+### Using Git
 
 1.	add & commit
 	You can propose changes (add it to the **Index**) using  
-	```
+	```bash
 	git add <filename>
 	```
-	```
+	```bash
 	git add *
 	```  
-This is the first step in the basic git workflow. To actually commit these changes use  
-`git commit -m "Commit message"`  
+	To commit these changes use  
+	```bash
+	git commit -m "Commit message"
+	```
 Now the file is committed to the **HEAD**, but not in your remote repository yet.
 
 ### pushing changes
@@ -62,6 +65,6 @@ Now the file is committed to the **HEAD**, but not in your remote repository yet
 Your changes are now in the **HEAD** of your local working copy. To send those changes to your remote repository, execute  
 `git push origin master`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDAyNjMwNiwxODQxNzIyMDc4LDEwNT
+eyJoaXN0b3J5IjpbLTcwNDE4MzU5MiwxODQxNzIyMDc4LDEwNT
 Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
