@@ -66,6 +66,10 @@
 	```bash
 	git push origin master
 	```
+3.	Check status.
+	```bash
+	git status
+	```
 
 ## Miniconda
 
@@ -121,7 +125,7 @@
 	jupyter-lab
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE1NjU5NTYsLTIwMTYyMTYyMjgsMT
-g0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYz
-NzI2Nl19
+eyJoaXN0b3J5IjpbLTI3MzQ3MTc3LC0xNTUxNTY1OTU2LC0yMD
+E2MjE2MjI4LDE4NDE3MjIwNzgsMTA1NDgyMjAyMiwtOTE5MTY2
+NDc4LC0yMjU2MzcyNjZdfQ==
 -->
