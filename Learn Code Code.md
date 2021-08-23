@@ -6,7 +6,7 @@
 
 [Zorin OS](https://zorin.com/os/)
 
-![](images/zorin-logomark-blue.png =100x100)
+![](images/zorin-logomark-blue.png)
 
 ## Git & GitHub
 
@@ -127,8 +127,8 @@
 	jupyter-lab
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1NzM5Mzk2LC0xOTE5NTc2ODk3LDE2Nz
-U1NzUwOTAsLTY1OTk2OTc2MCwtMjczNDcxNzcsLTE1NTE1NjU5
-NTYsLTIwMTYyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC
-05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
+eyJoaXN0b3J5IjpbLTE5MTk1NzY4OTcsLTE5MTk1NzY4OTcsMT
+Y3NTU3NTA5MCwtNjU5OTY5NzYwLC0yNzM0NzE3NywtMTU1MTU2
+NTk1NiwtMjAxNjIxNjIyOCwxODQxNzIyMDc4LDEwNTQ4MjIwMj
+IsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
