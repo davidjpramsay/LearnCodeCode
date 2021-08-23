@@ -29,18 +29,21 @@
 	ssh-keygen -t ed25519 -C "david.jp.ramsay@me.com"
 	```
 
-1.	Start the ssh-agent in the background.
+2.	Start the ssh-agent in the background.
 	```bash
 	eval "$(ssh-agent -s)"
 	```
-1.	Add your SSH private key to the ssh-agent
+3.	Add your SSH private key to the ssh-agent
 	```bash
 	ssh-add ~/.ssh/id_ed25519
 	```
-1.	Add public SSH to GitHub in the account settings menu.
+4.	Add public SSH to GitHub in the account settings menu.
 
-1.
+5.	Clone  a repository on GitHub locally.
+	```bash
+	git clone git@github.com:davidjpramsay/learncodecode.git
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjAxMDQ0OSwxMDU0ODIyMDIyLC05MT
-kxNjY0NzgsLTIyNTYzNzI2Nl19
+eyJoaXN0b3J5IjpbNTM5MDA4MjMyLDEwNTQ4MjIwMjIsLTkxOT
+E2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
