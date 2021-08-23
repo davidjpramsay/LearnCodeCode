@@ -103,7 +103,7 @@
 	```
 5.	Install packages.
 	```bash
-	conda install python numpy panda pandas
+	conda install python numpy pandas jupyterlab
 	```
 6.	List packages in environment.
 	```bash
@@ -113,8 +113,10 @@
 	```bash
 	conda remove --name my_environment_name --all
 	```
+
+## Jupyter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTY0NTIxMiwtMjAxNjIxNjIyOCwxOD
+eyJoaXN0b3J5IjpbLTgxNzc5MzQ2NywtMjAxNjIxNjIyOCwxOD
 QxNzIyMDc4LDEwNTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3
 MjY2XX0=
 -->
