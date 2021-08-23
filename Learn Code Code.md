@@ -109,8 +109,12 @@
 	```bash
 	conda list
 	```
-
+7.	Delete environment.
+	```bash
+	conda remove --name my_environment_name --all
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYyMTYyMjgsMTg0MTcyMjA3OCwxMD
-U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
+eyJoaXN0b3J5IjpbLTQwNTY0NTIxMiwtMjAxNjIxNjIyOCwxOD
+QxNzIyMDc4LDEwNTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3
+MjY2XX0=
 -->
