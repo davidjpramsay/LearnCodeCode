@@ -29,17 +29,18 @@
 	ssh-keygen -t ed25519 -C "david.jp.ramsay@me.com"
 	```
 
-2.	Start the ssh-agent in the background.
+1.	Start the ssh-agent in the background.
 	```bash
 	eval "$(ssh-agent -s)"
 	```
-3.	Add your SSH private key to the ssh-agent
+1.	Add your SSH private key to the ssh-agent
 	```bash
 	ssh-add ~/.ssh/id_ed25519
 	```
-4. Add public SSH to GitHub in the account settings menu.
+1.	Add public SSH to GitHub in the account settings menu.
 
+1.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDgyMjAyMiwtOTE5MTY2NDc4LC0yMj
-U2MzcyNjZdfQ==
+eyJoaXN0b3J5IjpbLTc2NjAxMDQ0OSwxMDU0ODIyMDIyLC05MT
+kxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
