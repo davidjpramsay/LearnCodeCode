@@ -89,7 +89,6 @@
 	```bash
 	conda create --name my_enviroment_name
 	```
-
 2.	Activate environment
 	```bash
 	source activate my_enviroment_name
@@ -102,9 +101,9 @@
 	```bash
 	conda activate
 	```
-
-
+5.	Install packages.
+	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MzcyNzE3LDE4NDE3MjIwNzgsMTA1ND
-gyMjAyMiwtOTE5MTY2NDc4LC0yMjU2MzcyNjZdfQ==
+eyJoaXN0b3J5IjpbMjEyNzU1MTIzOCwxODQxNzIyMDc4LDEwNT
+Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
