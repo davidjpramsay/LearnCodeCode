@@ -103,9 +103,10 @@
 	```
 5.	Install packages.
 	```bash
-	conda install python numpy panda
+	conda install python numpy panda pandas
 	```
+6.	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODkxNTQ1NywxODQxNzIyMDc4LDEwNT
-Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbLTE1NjY4NjI0OTgsMTg0MTcyMjA3OCwxMD
+U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
