@@ -71,8 +71,9 @@
 
 ### Install Miniconda
 
-1.	
+1.	Download [Miniconda](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
+2.	Bash the install
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjI1MDU1MSwxODQxNzIyMDc4LDEwNT
-Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbLTIwNDM1MTgxMDIsMTg0MTcyMjA3OCwxMD
+U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
