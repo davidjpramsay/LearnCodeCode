@@ -68,7 +68,11 @@
 	```
 
 ## Miniconda
+
+### Install Miniconda
+
+1.	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjc0Njk5MiwxODQxNzIyMDc4LDEwNT
+eyJoaXN0b3J5IjpbLTg0NjI1MDU1MSwxODQxNzIyMDc4LDEwNT
 Q4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
