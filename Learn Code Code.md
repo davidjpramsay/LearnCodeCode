@@ -105,8 +105,12 @@
 	```bash
 	conda install python numpy panda pandas
 	```
-6.	
+6.	List packages in environment.
+	```bash
+	conda list
+	```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY4NjI0OTgsMTg0MTcyMjA3OCwxMD
+eyJoaXN0b3J5IjpbLTIwMTYyMTYyMjgsMTg0MTcyMjA3OCwxMD
 U0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
