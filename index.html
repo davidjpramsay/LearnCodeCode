@@ -54,17 +54,17 @@
 <ol>
 <li>
 <p>Generate a new SSH key</p>
-<pre class=" language-bash"><code class="prism  language-bash">ssh-keygen -t ed25519 -C <span class="token string">"david.jp.ramsay@me.com"</span>
+<pre class=" language-console"><code class="prism  language-console">ssh-keygen -t ed25519 -C "david.jp.ramsay@me.com"
 </code></pre>
 </li>
 <li>
 <p>Start the ssh-agent in the background.</p>
-<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">eval</span> <span class="token string">"<span class="token variable"><span class="token variable">$(</span>ssh-agent -s<span class="token variable">)</span></span>"</span>
+<pre class=" language-console"><code class="prism  language-console">eval "$(ssh-agent -s)"
 </code></pre>
 </li>
 <li>
 <p>Add your SSH private key to the ssh-agent</p>
-<pre class=" language-bash"><code class="prism  language-bash">ssh-add ~/.ssh/id_ed25519
+<pre class=" language-console"><code class="prism  language-console">ssh-add ~/.ssh/id_ed25519
 </code></pre>
 </li>
 <li>
