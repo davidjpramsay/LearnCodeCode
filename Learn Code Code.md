@@ -141,14 +141,15 @@
 
 ## Resources
 
-1.	[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
-2.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-3.	[Deep Learning](https://www.deeplearningbook.org/)
+1.	[arXiv](https://arxiv.org/)
+2.	[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+3.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+4.	[Deep Learning](https://www.deeplearningbook.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMjY0MDY5LC0xNTk2NjkzMDgwLC0xOD
-I1MTMyOTIxLC00MDIyMzg2NzYsLTY3NDMxNTgyMSwtMTkxOTU3
-Njg5NywtMTkxOTU3Njg5NywxNjc1NTc1MDkwLC02NTk5Njk3Nj
-AsLTI3MzQ3MTc3LC0xNTUxNTY1OTU2LC0yMDE2MjE2MjI4LDE4
-NDE3MjIwNzgsMTA1NDgyMjAyMiwtOTE5MTY2NDc4LC0yMjU2Mz
-cyNjZdfQ==
+eyJoaXN0b3J5IjpbLTE2MDAyOTU4NTIsNjkyMjY0MDY5LC0xNT
+k2NjkzMDgwLC0xODI1MTMyOTIxLC00MDIyMzg2NzYsLTY3NDMx
+NTgyMSwtMTkxOTU3Njg5NywtMTkxOTU3Njg5NywxNjc1NTc1MD
+kwLC02NTk5Njk3NjAsLTI3MzQ3MTc3LC0xNTUxNTY1OTU2LC0y
+MDE2MjE2MjI4LDE4NDE3MjIwNzgsMTA1NDgyMjAyMiwtOTE5MT
+Y2NDc4LC0yMjU2MzcyNjZdfQ==
 -->
