@@ -4,7 +4,7 @@
 
 ## System
 
-![](https://raw.githubusercontent.com/davidjpramsay/learncodecode/master/images/zorin-logomark-blue.png =60x)
+![](https://raw.githubusercontent.com/davidjpramsay/learncodecode/master/images/zorin-logomark-blue.png =65x)
 [Zorin OS](https://zorin.com/os/)
 
 
@@ -127,9 +127,9 @@
 	jupyter-lab
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjIzODY3NiwtNjc0MzE1ODIxLC0xOT
-E5NTc2ODk3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAsLTY1OTk2
-OTc2MCwtMjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMTYyMTYyMj
-gsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0NzgsLTIy
-NTYzNzI2Nl19
+eyJoaXN0b3J5IjpbLTE4MjUxMzI5MjEsLTQwMjIzODY3NiwtNj
+c0MzE1ODIxLC0xOTE5NTc2ODk3LC0xOTE5NTc2ODk3LDE2NzU1
+NzUwOTAsLTY1OTk2OTc2MCwtMjczNDcxNzcsLTE1NTE1NjU5NT
+YsLTIwMTYyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05
+MTkxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
