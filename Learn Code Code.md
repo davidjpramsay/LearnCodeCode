@@ -135,11 +135,11 @@
 ## High Level Overview
 
 1.	[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
-2.	
+2.	[Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjQ5NjQyMCwtMTgyNTEzMjkyMSwtND
-AyMjM4Njc2LC02NzQzMTU4MjEsLTE5MTk1NzY4OTcsLTE5MTk1
-NzY4OTcsMTY3NTU3NTA5MCwtNjU5OTY5NzYwLC0yNzM0NzE3Ny
-wtMTU1MTU2NTk1NiwtMjAxNjIxNjIyOCwxODQxNzIyMDc4LDEw
-NTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbLTE1OTY2OTMwODAsLTE4MjUxMzI5MjEsLT
+QwMjIzODY3NiwtNjc0MzE1ODIxLC0xOTE5NTc2ODk3LC0xOTE5
+NTc2ODk3LDE2NzU1NzUwOTAsLTY1OTk2OTc2MCwtMjczNDcxNz
+csLTE1NTE1NjU5NTYsLTIwMTYyMTYyMjgsMTg0MTcyMjA3OCwx
+MDU0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
