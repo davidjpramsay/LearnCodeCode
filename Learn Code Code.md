@@ -142,11 +142,12 @@
 ## Resources
 
 1.	[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+2.	[https://jakevdp.github.io/PythonDataScienceHandbook/index.html](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAzODEzOTQsLTE1OTY2OTMwODAsLT
-E4MjUxMzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1ODIxLC0xOTE5
-NTc2ODk3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAsLTY1OTk2OT
-c2MCwtMjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMTYyMTYyMjgs
-MTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0NzgsLTIyNT
-YzNzI2Nl19
+eyJoaXN0b3J5IjpbMTE4NDc4NzAzMywtMTU5NjY5MzA4MCwtMT
+gyNTEzMjkyMSwtNDAyMjM4Njc2LC02NzQzMTU4MjEsLTE5MTk1
+NzY4OTcsLTE5MTk1NzY4OTcsMTY3NTU3NTA5MCwtNjU5OTY5Nz
+YwLC0yNzM0NzE3NywtMTU1MTU2NTk1NiwtMjAxNjIxNjIyOCwx
+ODQxNzIyMDc4LDEwNTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1Nj
+M3MjY2XX0=
 -->
