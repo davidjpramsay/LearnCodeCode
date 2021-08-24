@@ -132,9 +132,12 @@
 1.	[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw&t=0s)
 2.	[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-## High Level Over
+## High Level Overview
+
+1.	[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
+2.	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzkzODM5MSwtMTgyNTEzMjkyMSwtND
+eyJoaXN0b3J5IjpbMTAwNjQ5NjQyMCwtMTgyNTEzMjkyMSwtND
 AyMjM4Njc2LC02NzQzMTU4MjEsLTE5MTk1NzY4OTcsLTE5MTk1
 NzY4OTcsMTY3NTU3NTA5MCwtNjU5OTY5NzYwLC0yNzM0NzE3Ny
 wtMTU1MTU2NTk1NiwtMjAxNjIxNjIyOCwxODQxNzIyMDc4LDEw
