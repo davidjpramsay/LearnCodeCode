@@ -24,7 +24,7 @@
 	```bash
 	git config --global user.email "david.jp.ramsay@me.com"
 	```
-### Connect to GitHub
+#### Connect to GitHub
 
 1.	Generate a new SSH key
 	```bash
@@ -46,7 +46,7 @@
 	git clone git@github.com:davidjpramsay/learncodecode.git
 	```
 
-### Using Git
+#### Using Git
 
 1.	Add & Commit
 	You can propose changes (add it to the **Index**) using  
@@ -73,9 +73,9 @@
 	git status
 	```
 
-## Miniconda
+### Miniconda
 
-### Install Miniconda
+#### Install Miniconda
 
 1.	Download [Miniconda](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
 
@@ -89,7 +89,7 @@
 	conda update conda
 	```
 
-### Managing Environments
+#### Managing Environments
 
 1.	Create a new environment.
 	```bash
@@ -120,17 +120,20 @@
 	conda remove --name my_environment_name --all
 	```
 
-## Jupyter
+### Jupyter
 
 1.	Launch JupyterLab
 	```bash
 	jupyter-lab
 	```
 
+## Learn Python
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDI2MTczOCwtMTgyNTEzMjkyMSwtND
-AyMjM4Njc2LC02NzQzMTU4MjEsLTE5MTk1NzY4OTcsLTE5MTk1
-NzY4OTcsMTY3NTU3NTA5MCwtNjU5OTY5NzYwLC0yNzM0NzE3Ny
-wtMTU1MTU2NTk1NiwtMjAxNjIxNjIyOCwxODQxNzIyMDc4LDEw
-NTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbMzIyMzA5MjM4LC0xODI1MTMyOTIxLC00MD
+IyMzg2NzYsLTY3NDMxNTgyMSwtMTkxOTU3Njg5NywtMTkxOTU3
+Njg5NywxNjc1NTc1MDkwLC02NTk5Njk3NjAsLTI3MzQ3MTc3LC
+0xNTUxNTY1OTU2LC0yMDE2MjE2MjI4LDE4NDE3MjIwNzgsMTA1
+NDgyMjAyMiwtOTE5MTY2NDc4LC0yMjU2MzcyNjZdfQ==
 -->
