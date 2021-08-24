@@ -138,11 +138,15 @@
 2.	[Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 3.	[Practical Deep Learning for Coders](https://course.fast.ai/)
 4.	[Part 2: Deep Learning from the Foundations](https://course19.fast.ai/part2)
+
+## Resources
+
+1.	[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTU5OTUxNCwtMTU5NjY5MzA4MCwtMT
-gyNTEzMjkyMSwtNDAyMjM4Njc2LC02NzQzMTU4MjEsLTE5MTk1
-NzY4OTcsLTE5MTk1NzY4OTcsMTY3NTU3NTA5MCwtNjU5OTY5Nz
-YwLC0yNzM0NzE3NywtMTU1MTU2NTk1NiwtMjAxNjIxNjIyOCwx
-ODQxNzIyMDc4LDEwNTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1Nj
-M3MjY2XX0=
+eyJoaXN0b3J5IjpbLTEyNzAzODEzOTQsLTE1OTY2OTMwODAsLT
+E4MjUxMzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1ODIxLC0xOTE5
+NTc2ODk3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAsLTY1OTk2OT
+c2MCwtMjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMTYyMTYyMjgs
+MTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0NzgsLTIyNT
+YzNzI2Nl19
 -->
