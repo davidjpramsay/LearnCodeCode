@@ -2,15 +2,15 @@
 
 > David Ramsay
 
-## System
+## System Setup
 
 ![](https://raw.githubusercontent.com/davidjpramsay/learncodecode/master/images/zorin-logomark-blue.png =65x)
 [Zorin OS](https://zorin.com/os/)
 
 
-## Git & GitHub
+### Git & GitHub
 
-### Install Git
+#### Install Git
 1.	Install
 	```bash
 	apt install git
@@ -126,10 +126,11 @@
 	```bash
 	jupyter-lab
 	```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUxMzI5MjEsLTQwMjIzODY3NiwtNj
-c0MzE1ODIxLC0xOTE5NTc2ODk3LC0xOTE5NTc2ODk3LDE2NzU1
-NzUwOTAsLTY1OTk2OTc2MCwtMjczNDcxNzcsLTE1NTE1NjU5NT
-YsLTIwMTYyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05
-MTkxNjY0NzgsLTIyNTYzNzI2Nl19
+eyJoaXN0b3J5IjpbMTM4NDI2MTczOCwtMTgyNTEzMjkyMSwtND
+AyMjM4Njc2LC02NzQzMTU4MjEsLTE5MTk1NzY4OTcsLTE5MTk1
+NzY4OTcsMTY3NTU3NTA5MCwtNjU5OTY5NzYwLC0yNzM0NzE3Ny
+wtMTU1MTU2NTk1NiwtMjAxNjIxNjIyOCwxODQxNzIyMDc4LDEw
+NTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
 -->
