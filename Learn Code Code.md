@@ -6,7 +6,7 @@
 
 [Zorin OS](https://zorin.com/os/)
 
-![](images/zorin-logomark-blue.png)
+![](https://raw.githubusercontent.com/davidjpramsay/learncodecode/master/images/zorin-logomark-blue.png)
 
 ## Git & GitHub
 
@@ -127,8 +127,9 @@
 	jupyter-lab
 	```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk1NzY4OTcsLTE5MTk1NzY4OTcsMT
-Y3NTU3NTA5MCwtNjU5OTY5NzYwLC0yNzM0NzE3NywtMTU1MTU2
-NTk1NiwtMjAxNjIxNjIyOCwxODQxNzIyMDc4LDEwNTQ4MjIwMj
-IsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2XX0=
+eyJoaXN0b3J5IjpbLTY3NDMxNTgyMSwtMTkxOTU3Njg5NywtMT
+kxOTU3Njg5NywxNjc1NTc1MDkwLC02NTk5Njk3NjAsLTI3MzQ3
+MTc3LC0xNTUxNTY1OTU2LC0yMDE2MjE2MjI4LDE4NDE3MjIwNz
+gsMTA1NDgyMjAyMiwtOTE5MTY2NDc4LC0yMjU2MzcyNjZdfQ==
+
 -->
