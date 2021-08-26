@@ -127,6 +127,15 @@
 	jupyter-lab
 	```
 
+## Terminal Commands
+
+### Delete folder and sub-folders without asking.
+
+```bash
+rm -rf "folder_name"
+```
+
+
 ## Learn Python
 
 1.	[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw&t=0s)
@@ -146,10 +155,11 @@
 4.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 5.	[Deep Learning](https://www.deeplearningbook.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ3NjU2MDksNjkyMjY0MDY5LC0xNT
-k2NjkzMDgwLC0xODI1MTMyOTIxLC00MDIyMzg2NzYsLTY3NDMx
-NTgyMSwtMTkxOTU3Njg5NywtMTkxOTU3Njg5NywxNjc1NTc1MD
-kwLC02NTk5Njk3NjAsLTI3MzQ3MTc3LC0xNTUxNTY1OTU2LC0y
-MDE2MjE2MjI4LDE4NDE3MjIwNzgsMTA1NDgyMjAyMiwtOTE5MT
-Y2NDc4LC0yMjU2MzcyNjZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTQwMDM4MjksMTUzNzU2NzEyNCwtMT
+k1NDc2NTYwOSw2OTIyNjQwNjksLTE1OTY2OTMwODAsLTE4MjUx
+MzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1ODIxLC0xOTE5NTc2OD
+k3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAsLTY1OTk2OTc2MCwt
+MjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMTYyMTYyMjgsMTg0MT
+cyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2
+Nl19
 -->
