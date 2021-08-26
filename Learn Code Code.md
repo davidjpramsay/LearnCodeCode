@@ -129,7 +129,9 @@
 
 ## Terminal Commands
 
-###  Remove files
+###  Delete Folders
+
+```bash
 
 
 ## Learn Python
@@ -151,7 +153,7 @@
 4.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 5.	[Deep Learning](https://www.deeplearningbook.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjA1MjU0NywtMTk1NDc2NTYwOSw2OT
+eyJoaXN0b3J5IjpbMTUzNzU2NzEyNCwtMTk1NDc2NTYwOSw2OT
 IyNjQwNjksLTE1OTY2OTMwODAsLTE4MjUxMzI5MjEsLTQwMjIz
 ODY3NiwtNjc0MzE1ODIxLC0xOTE5NTc2ODk3LC0xOTE5NTc2OD
 k3LDE2NzU1NzUwOTAsLTY1OTk2OTc2MCwtMjczNDcxNzcsLTE1
