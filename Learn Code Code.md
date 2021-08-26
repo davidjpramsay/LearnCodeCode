@@ -129,7 +129,7 @@
 
 ## Terminal Commands
 
-### Delete Folder and Sub-folders without asking
+### Delete folder and sub-folders without asking.
 
 ```bash
 rm -rf "folder_name"
@@ -155,7 +155,7 @@ rm -rf "folder_name"
 4.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 5.	[Deep Learning](https://www.deeplearningbook.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAxMjAxNDMsMTUzNzU2NzEyNCwtMT
+eyJoaXN0b3J5IjpbLTE2NTQwMDM4MjksMTUzNzU2NzEyNCwtMT
 k1NDc2NTYwOSw2OTIyNjQwNjksLTE1OTY2OTMwODAsLTE4MjUx
 MzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1ODIxLC0xOTE5NTc2OD
 k3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAsLTY1OTk2OTc2MCwt
