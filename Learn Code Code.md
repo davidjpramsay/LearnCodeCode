@@ -127,6 +127,11 @@
 	jupyter-lab
 	```
 
+## Terminal Commands
+
+###  Remove files
+
+
 ## Learn Python
 
 1.	[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw&t=0s)
@@ -146,10 +151,10 @@
 4.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 5.	[Deep Learning](https://www.deeplearningbook.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ3NjU2MDksNjkyMjY0MDY5LC0xNT
-k2NjkzMDgwLC0xODI1MTMyOTIxLC00MDIyMzg2NzYsLTY3NDMx
-NTgyMSwtMTkxOTU3Njg5NywtMTkxOTU3Njg5NywxNjc1NTc1MD
-kwLC02NTk5Njk3NjAsLTI3MzQ3MTc3LC0xNTUxNTY1OTU2LC0y
-MDE2MjE2MjI4LDE4NDE3MjIwNzgsMTA1NDgyMjAyMiwtOTE5MT
-Y2NDc4LC0yMjU2MzcyNjZdfQ==
+eyJoaXN0b3J5IjpbMTY0MjA1MjU0NywtMTk1NDc2NTYwOSw2OT
+IyNjQwNjksLTE1OTY2OTMwODAsLTE4MjUxMzI5MjEsLTQwMjIz
+ODY3NiwtNjc0MzE1ODIxLC0xOTE5NTc2ODk3LC0xOTE5NTc2OD
+k3LDE2NzU1NzUwOTAsLTY1OTk2OTc2MCwtMjczNDcxNzcsLTE1
+NTE1NjU5NTYsLTIwMTYyMTYyMjgsMTg0MTcyMjA3OCwxMDU0OD
+IyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2Nl19
 -->
