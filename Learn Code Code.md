@@ -71,7 +71,13 @@
 3.	Check status.
 	```bash
 	git status
+
+4. Pull remote changes to local.
+
+	```bash
+	git pull
 	```
+
 
 ### Miniconda
 
@@ -155,11 +161,11 @@ rm -rf "folder_name"
 4.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 5.	[Deep Learning](https://www.deeplearningbook.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQwMDM4MjksMTUzNzU2NzEyNCwtMT
-k1NDc2NTYwOSw2OTIyNjQwNjksLTE1OTY2OTMwODAsLTE4MjUx
-MzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1ODIxLC0xOTE5NTc2OD
-k3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAsLTY1OTk2OTc2MCwt
-MjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMTYyMTYyMjgsMTg0MT
-cyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2
-Nl19
+eyJoaXN0b3J5IjpbLTEzNTE3NzY3MTgsLTE2NTQwMDM4MjksMT
+UzNzU2NzEyNCwtMTk1NDc2NTYwOSw2OTIyNjQwNjksLTE1OTY2
+OTMwODAsLTE4MjUxMzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1OD
+IxLC0xOTE5NTc2ODk3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAs
+LTY1OTk2OTc2MCwtMjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMT
+YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
+NzgsLTIyNTYzNzI2Nl19
 -->
