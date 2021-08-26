@@ -129,10 +129,10 @@
 
 ## Terminal Commands
 
-###  Delete Folder and Sub-folders
+### Delete Folder and Sub-folders without asking
 
 ```bash
-	rm -rf "folder_name"
+rm -rf "folder_name"
 ```
 
 
@@ -155,11 +155,11 @@
 4.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 5.	[Deep Learning](https://www.deeplearningbook.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTg5MjI2MiwxNTM3NTY3MTI0LC0xOT
-U0NzY1NjA5LDY5MjI2NDA2OSwtMTU5NjY5MzA4MCwtMTgyNTEz
-MjkyMSwtNDAyMjM4Njc2LC02NzQzMTU4MjEsLTE5MTk1NzY4OT
-csLTE5MTk1NzY4OTcsMTY3NTU3NTA5MCwtNjU5OTY5NzYwLC0y
-NzM0NzE3NywtMTU1MTU2NTk1NiwtMjAxNjIxNjIyOCwxODQxNz
-IyMDc4LDEwNTQ4MjIwMjIsLTkxOTE2NjQ3OCwtMjI1NjM3MjY2
-XX0=
+eyJoaXN0b3J5IjpbLTE1ODAxMjAxNDMsMTUzNzU2NzEyNCwtMT
+k1NDc2NTYwOSw2OTIyNjQwNjksLTE1OTY2OTMwODAsLTE4MjUx
+MzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1ODIxLC0xOTE5NTc2OD
+k3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAsLTY1OTk2OTc2MCwt
+MjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMTYyMTYyMjgsMTg0MT
+cyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0NzgsLTIyNTYzNzI2
+Nl19
 -->
