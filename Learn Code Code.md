@@ -170,6 +170,9 @@ rm -rf "folder_name"
 
 ## SwiftUI
 
+1. 
+1. [2021 SwiftUI Tutorial for Beginners](https://www.youtube.com/watch?v=F2ojC6TNwws&t=6859s)
+2. [Paths vs shapes in SwiftUI](https://www.youtube.com/watch?v=xTRhYKjp5nk)
 ## ML Courses
 
 1.	[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -193,6 +196,6 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzOTMxMjk5LDEwMjg0NTcwNDUsMTUxMj
-YwMDgwLC0xMDYwMDg2MTM0LC0xMTgwMDI3NzldfQ==
+eyJoaXN0b3J5IjpbLTQ4MjQyNzUyNywxMDI4NDU3MDQ1LDE1MT
+I2MDA4MCwtMTA2MDA4NjEzNCwtMTE4MDAyNzc5XX0=
 -->
