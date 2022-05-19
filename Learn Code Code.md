@@ -136,10 +136,16 @@
 
 ## Documentation
 
+### 
+
+### Git Repository
+https://github.com/davidjpramsay/learncodecode
+
+
 The markdown file [Learn Code Code.md](https://github.com/davidjpramsay/learncodecode/blob/master/Learn%20Code%20Code.md) and [index.html](https://github.com/davidjpramsay/learncodecode/blob/master/index.html) are written with StackEdit.
 
-*Note: there is currently an error with StackEdit authenticating with GitHub work around posted here:* https://github.com/benweet/stackedit/issues/1755
-https://github.com/davidjpramsay/learncodecode
+*Note: There is currently an error with StackEdit authenticating with GitHub work around posted here:* https://github.com/benweet/stackedit/issues/1755
+
 
 
 ## Terminal Commands
@@ -179,6 +185,6 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODIxNzU0MSwxNTEyNjAwODAsLTEwNj
-AwODYxMzQsLTExODAwMjc3OV19
+eyJoaXN0b3J5IjpbLTE5NzI3NjA5MzUsMTUxMjYwMDgwLC0xMD
+YwMDg2MTM0LC0xMTgwMDI3NzldfQ==
 -->
