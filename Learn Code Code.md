@@ -138,7 +138,7 @@
 
 The markdown file Learn Code Code.md and index.html 
 
-** 8
+*Note there is currently an error with StackEdit authenticating with GitHub work around posted here:* https://github.com/benweet/stackedit/issues/1755
 https://github.com/davidjpramsay/learncodecode
 
 
@@ -179,6 +179,6 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAyNjEzODgsLTEwNjAwODYxMzQsLT
-ExODAwMjc3OV19
+eyJoaXN0b3J5IjpbMTUxMjYwMDgwLC0xMDYwMDg2MTM0LC0xMT
+gwMDI3NzldfQ==
 -->
