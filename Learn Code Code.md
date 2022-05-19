@@ -164,6 +164,8 @@ rm -rf "folder_name"
 1.	[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw&t=0s)
 2.	[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
+## Pandas Course
+
 ## ML Courses
 
 1.	[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -187,6 +189,6 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NTI4ODI3LDE1MTI2MDA4MCwtMTA2MD
-A4NjEzNCwtMTE4MDAyNzc5XX0=
+eyJoaXN0b3J5IjpbMTAyODQ1NzA0NSwxNTEyNjAwODAsLTEwNj
+AwODYxMzQsLTExODAwMjc3OV19
 -->
