@@ -13,7 +13,7 @@
     <div class="stackedit__toc">
       
 <ul>
-<li><a href="#learn-code-code-v2">Learn Code Code v2?</a>
+<li><a href="#learn-code-code">Learn Code Code</a>
 <ul>
 <li><a href="#system-setup">System Setup</a></li>
 <li><a href="#terminal-commands">Terminal Commands</a></li>
@@ -28,7 +28,7 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="learn-code-code-v2">Learn Code Code v2?</h1>
+      <h1 id="learn-code-code">Learn Code Code</h1>
 <blockquote>
 <p>David Ramsay</p>
 </blockquote>
