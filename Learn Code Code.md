@@ -166,6 +166,8 @@ rm -rf "folder_name"
 
 ## Pandas Course
 
+https://www.youtube.com/watch?v=iYie42M1ZyU&t=853s
+
 ## ML Courses
 
 1.	[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -189,6 +191,6 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODQ1NzA0NSwxNTEyNjAwODAsLTEwNj
-AwODYxMzQsLTExODAwMjc3OV19
+eyJoaXN0b3J5IjpbLTIzNTgzMzI4OSwxMDI4NDU3MDQ1LDE1MT
+I2MDA4MCwtMTA2MDA4NjEzNCwtMTE4MDAyNzc5XX0=
 -->
