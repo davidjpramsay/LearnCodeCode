@@ -166,7 +166,9 @@ rm -rf "folder_name"
 
 ## Pandas Course
 
-https://www.youtube.com/watch?v=iYie42M1ZyU&t=853s
+1. [Daniel Chen: Cleaning and Tidying Data in Pandas](https://www.youtube.com/watch?v=iYie42M1ZyU&t=853s)
+
+## SwiftUI
 
 ## ML Courses
 
@@ -191,6 +193,6 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTgzMzI4OSwxMDI4NDU3MDQ1LDE1MT
-I2MDA4MCwtMTA2MDA4NjEzNCwtMTE4MDAyNzc5XX0=
+eyJoaXN0b3J5IjpbODUzOTMxMjk5LDEwMjg0NTcwNDUsMTUxMj
+YwMDgwLC0xMDYwMDg2MTM0LC0xMTgwMDI3NzldfQ==
 -->
