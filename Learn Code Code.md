@@ -1,5 +1,5 @@
 
-# Learn Code Code v2
+# Learn Code Code
 
 > David Ramsay
 
@@ -134,6 +134,10 @@
 	jupyter-lab
 	```
 
+## Documentation
+
+The 
+
 ## Terminal Commands
 
 ### Delete folder and sub-folders without asking.
@@ -171,5 +175,5 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAwMjc3OV19
+eyJoaXN0b3J5IjpbLTE0MzI2MzMyNzYsLTExODAwMjc3OV19
 -->
