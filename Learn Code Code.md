@@ -136,9 +136,9 @@
 
 ## Documentation
 
-The markdown file [Learn Code Code.md](https://github.com/davidjpramsay/learncodecode/blob/master/Learn%20Code%20Code.md) and [index.html](https://github.com/davidjpramsay/learncodecode/blob/master/index.html) are written in stacked.io 
+The markdown file [Learn Code Code.md](https://github.com/davidjpramsay/learncodecode/blob/master/Learn%20Code%20Code.md) and [index.html](https://github.com/davidjpramsay/learncodecode/blob/master/index.html) are written with StackEdit.
 
-*Note there is currently an error with StackEdit authenticating with GitHub work around posted here:* https://github.com/benweet/stackedit/issues/1755
+*Note: there is currently an error with StackEdit authenticating with GitHub work around posted here:* https://github.com/benweet/stackedit/issues/1755
 https://github.com/davidjpramsay/learncodecode
 
 
@@ -179,6 +179,6 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3NzY4NDM1LDE1MTI2MDA4MCwtMTA2MD
-A4NjEzNCwtMTE4MDAyNzc5XX0=
+eyJoaXN0b3J5IjpbLTY3ODIxNzU0MSwxNTEyNjAwODAsLTEwNj
+AwODYxMzQsLTExODAwMjc3OV19
 -->
