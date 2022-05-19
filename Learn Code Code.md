@@ -1,171 +1,192 @@
-# Learn Code Code
+<!DOCTYPE html>
+<html>
 
-> David Ramsay
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn Code Code</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
-## System Setup
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#learn-code-code">Learn Code Code</a>
+<ul>
+<li><a href="#system-setup">System Setup</a></li>
+<li><a href="#terminal-commands">Terminal Commands</a></li>
+<li><a href="#learn-python">Learn Python</a></li>
+<li><a href="#ml-courses">ML Courses</a></li>
+<li><a href="#resources">Resources</a></li>
+</ul>
+</li>
+</ul>
 
-![](https://raw.githubusercontent.com/davidjpramsay/learncodecode/master/images/zorin-logomark-blue.png =65x)
-[Zorin OS](https://zorin.com/os/)
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="learn-code-code">Learn Code Code</h1>
+<blockquote>
+<p>David Ramsay</p>
+</blockquote>
+<h2 id="system-setup">System Setup</h2>
+<p><img src="https://raw.githubusercontent.com/davidjpramsay/learncodecode/master/images/zorin-logomark-blue.png" alt="" width="65"><br>
+<a href="https://zorin.com/os/">Zorin OS</a></p>
+<h3 id="git--github">Git &amp; GitHub</h3>
+<h4 id="install-git">Install Git</h4>
+<ol>
+<li>
+<p>Install</p>
+<pre class=" language-bash"><code class="prism  language-bash">apt <span class="token function">install</span> <span class="token function">git</span>
+</code></pre>
+</li>
+<li>
+<p>Setting your Git username for <em>every</em> repository on your computer</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> config --global user.name <span class="token string">"davidjpramsay"</span>
+</code></pre>
+</li>
+<li>
+<p>Setting your commit email address in Git</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> config --global user.email <span class="token string">"david.jp.ramsay@me.com"</span>
+</code></pre>
+</li>
+</ol>
+<h4 id="connect-to-github">Connect to GitHub</h4>
+<ol>
+<li>
+<p>Generate a new SSH key</p>
+<pre class=" language-bash"><code class="prism  language-bash">ssh-keygen -t ed25519 -C <span class="token string">"david.jp.ramsay@me.com"</span>
+</code></pre>
+</li>
+<li>
+<p>Start the ssh-agent in the background.</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">eval</span> <span class="token string">"<span class="token variable"><span class="token variable">$(</span>ssh-agent -s<span class="token variable">)</span></span>"</span>
+</code></pre>
+</li>
+<li>
+<p>Add your SSH private key to the ssh-agent</p>
+<pre class=" language-bash"><code class="prism  language-bash">ssh-add ~/.ssh/id_ed25519
+</code></pre>
+</li>
+<li>
+<p>Add public SSH to GitHub in the account settings menu.</p>
+</li>
+<li>
+<p>Clone  a repository on GitHub locally.</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> clone git@github.com:davidjpramsay/learncodecode.git
+</code></pre>
+</li>
+</ol>
+<h4 id="using-git">Using Git</h4>
+<ol>
+<li>
+<p>Add &amp; Commit<br>
+You can propose changes (add it to the <strong>Index</strong>) using</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> add <span class="token operator">&lt;</span>filename<span class="token operator">&gt;</span>
+</code></pre>
+<p>or</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> add *
+</code></pre>
+<p>To commit these changes use</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> commit -m <span class="token string">"Commit message"</span>
+</code></pre>
+<p>Now the file is committed to the <strong>HEAD</strong>, but not in your remote repository yet.</p>
+</li>
+<li>
+<p>Pushing Changes<br>
+Your changes are now in the <strong>HEAD</strong> of your local working copy. To send those changes to your remote repository, execute</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> push origin master
+</code></pre>
+</li>
+<li>
+<p>Check status.</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> status
 
+</code></pre>
+</li>
+<li>
+<p>Pull remote changes to local.</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">git</span> pull
+</code></pre>
+</li>
+</ol>
+<h3 id="miniconda">Miniconda</h3>
+<h4 id="install-miniconda">Install Miniconda</h4>
+<ol>
+<li>
+<p>Download <a href="https://docs.conda.io/en/latest/miniconda.html#linux-installers">Miniconda</a></p>
+</li>
+<li>
+<p>Bash the installer</p>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">bash</span> Miniconda3-latest-Linux-x86_64.sh
+</code></pre>
+</li>
+<li>
+<p>Update</p>
+<pre class=" language-bash"><code class="prism  language-bash">conda update conda
+</code></pre>
+</li>
+</ol>
+<h4 id="managing-environments">Managing Environments</h4>
+<ol>
+<li>Create a new environment.<pre class=" language-bash"><code class="prism  language-bash">conda create --name my_enviroment_name
+</code></pre>
+</li>
+<li>Activate environment<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">source</span> activate my_enviroment_name
+</code></pre>
+</li>
+<li>List all environments<pre class=" language-bash"><code class="prism  language-bash">conda info --envs
+</code></pre>
+</li>
+<li>Change back to base.<pre class=" language-bash"><code class="prism  language-bash">conda activate
+</code></pre>
+</li>
+<li>Install packages.<pre class=" language-bash"><code class="prism  language-bash">conda <span class="token function">install</span> python numpy pandas jupyterlab
+</code></pre>
+</li>
+<li>List packages in environment.<pre class=" language-bash"><code class="prism  language-bash">conda list
+</code></pre>
+</li>
+<li>Delete environment.<pre class=" language-bash"><code class="prism  language-bash">conda remove --name my_environment_name --all
+</code></pre>
+</li>
+</ol>
+<h3 id="jupyter">Jupyter</h3>
+<ol>
+<li>Launch JupyterLab<pre class=" language-bash"><code class="prism  language-bash">jupyter-lab
+</code></pre>
+</li>
+</ol>
+<h2 id="terminal-commands">Terminal Commands</h2>
+<h3 id="delete-folder-and-sub-folders-without-asking.">Delete folder and sub-folders without asking.</h3>
+<pre class=" language-bash"><code class="prism  language-bash"><span class="token function">rm</span> -rf <span class="token string">"folder_name"</span>
+</code></pre>
+<h2 id="learn-python">Learn Python</h2>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=rfscVS0vtbw&amp;t=0s">Learn Python - Full Course for Beginners [Tutorial]</a></li>
+<li><a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a></li>
+</ol>
+<h2 id="ml-courses">ML Courses</h2>
+<ol>
+<li><a href="https://www.coursera.org/learn/machine-learning">Coursera - Machine Learning</a></li>
+<li><a href="https://www.coursera.org/specializations/deep-learning">Coursera - Deep Learning Specialization</a></li>
+<li><a href="https://course.fast.ai/">Practical Deep Learning for Coders</a></li>
+<li><a href="https://course19.fast.ai/part2">Part 2: Deep Learning from the Foundations</a></li>
+</ol>
+<h2 id="resources">Resources</h2>
+<ol>
+<li><a href="https://arxiv.org/">arXiv</a></li>
+<li><a href="https://mml-book.github.io/book/mml-book.pdf">Mathematics for Machine Learning</a></li>
+<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/index.html">Python Data Science Handbook</a></li>
+<li><a href="https://www.deeplearningbook.org/">Deep Learning</a></li>
+</ol>
+<!--stackedit_data:&#10;eyJoaXN0b3J5IjpbLTEzNTE3NzY3MTgsLTE2NTQwMDM4MjksMT&#10;UzNzU2NzEyNCwtMTk1NDc2NTYwOSw2OTIyNjQwNjksLTE1OTY2&#10;OTMwODAsLTE4MjUxMzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1OD&#10;IxLC0xOTE5NTc2ODk3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAs&#10;LTY1OTk2OTc2MCwtMjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMT&#10;YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0&#10;NzgsLTIyNTYzNzI2Nl19&#10;-->
 
-### Git & GitHub
+    </div>
+  </div>
+</body>
 
-#### Install Git
-1.	Install
-	```bash
-	apt install git
-	```
-1.	Setting your Git username for _every_ repository on your computer
-	```bash
-	git config --global user.name "davidjpramsay"
-	```
-
-1.	Setting your commit email address in Git
-	```bash
-	git config --global user.email "david.jp.ramsay@me.com"
-	```
-#### Connect to GitHub
-
-1.	Generate a new SSH key
-	```bash
-	ssh-keygen -t ed25519 -C "david.jp.ramsay@me.com"
-	```
-
-2.	Start the ssh-agent in the background.
-	```bash
-	eval "$(ssh-agent -s)"
-	```
-3.	Add your SSH private key to the ssh-agent
-	```bash
-	ssh-add ~/.ssh/id_ed25519
-	```
-4.	Add public SSH to GitHub in the account settings menu.
-
-5.	Clone  a repository on GitHub locally.
-	```bash
-	git clone git@github.com:davidjpramsay/learncodecode.git
-	```
-
-#### Using Git
-
-1.	Add & Commit
-	You can propose changes (add it to the **Index**) using  
-	```bash
-	git add <filename>
-	```
-	or
-	```bash
-	git add *
-	```  
-	To commit these changes use  
-	```bash
-	git commit -m "Commit message"
-	```
-	Now the file is committed to the **HEAD**, but not in your remote repository yet.
-
-2.	Pushing Changes
-	Your changes are now in the **HEAD** of your local working copy. To send those changes to your remote repository, execute
-	```bash
-	git push origin master
-	```
-3.	Check status.
-	```bash
-	git status
-
-4. Pull remote changes to local.
-
-	```bash
-	git pull
-	```
-
-
-### Miniconda
-
-#### Install Miniconda
-
-1.	Download [Miniconda](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
-
-2.	Bash the installer
-	```bash
-	bash Miniconda3-latest-Linux-x86_64.sh
-	```
-	
-3.	Update
-	```bash
-	conda update conda
-	```
-
-#### Managing Environments
-
-1.	Create a new environment.
-	```bash
-	conda create --name my_enviroment_name
-	```
-2.	Activate environment
-	```bash
-	source activate my_enviroment_name
-	```
-3.	List all environments
-	```bash
-	conda info --envs
-	```
-4.	Change back to base.
-	```bash
-	conda activate
-	```
-5.	Install packages.
-	```bash
-	conda install python numpy pandas jupyterlab
-	```
-6.	List packages in environment.
-	```bash
-	conda list
-	```
-7.	Delete environment.
-	```bash
-	conda remove --name my_environment_name --all
-	```
-
-### Jupyter
-
-1.	Launch JupyterLab
-	```bash
-	jupyter-lab
-	```
-
-## Terminal Commands
-
-### Delete folder and sub-folders without asking.
-
-```bash
-rm -rf "folder_name"
-```
-
-
-## Learn Python
-
-1.	[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw&t=0s)
-2.	[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-
-## ML Courses
-
-1.	[Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
-2.	[Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-3.	[Practical Deep Learning for Coders](https://course.fast.ai/)
-4.	[Part 2: Deep Learning from the Foundations](https://course19.fast.ai/part2)
-
-## Resources
-
-1.	[arXiv](https://arxiv.org/)
-3.	[Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
-4.	[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-5.	[Deep Learning](https://www.deeplearningbook.org/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE3NzY3MTgsLTE2NTQwMDM4MjksMT
-UzNzU2NzEyNCwtMTk1NDc2NTYwOSw2OTIyNjQwNjksLTE1OTY2
-OTMwODAsLTE4MjUxMzI5MjEsLTQwMjIzODY3NiwtNjc0MzE1OD
-IxLC0xOTE5NTc2ODk3LC0xOTE5NTc2ODk3LDE2NzU1NzUwOTAs
-LTY1OTk2OTc2MCwtMjczNDcxNzcsLTE1NTE1NjU5NTYsLTIwMT
-YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
-NzgsLTIyNTYzNzI2Nl19
--->
+</html>
