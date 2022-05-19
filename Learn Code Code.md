@@ -136,7 +136,7 @@
 
 ## Documentation
 
-The markdown file Learn Code Code
+The markdown file Learn Code Code.md and index.html 
 
 https://github.com/davidjpramsay/learncodecode
 
@@ -178,5 +178,5 @@ YyMTYyMjgsMTg0MTcyMjA3OCwxMDU0ODIyMDIyLC05MTkxNjY0
 NzgsLTIyNTYzNzI2Nl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ3NDg1ODEsLTExODAwMjc3OV19
+eyJoaXN0b3J5IjpbLTEwNjAwODYxMzQsLTExODAwMjc3OV19
 -->
